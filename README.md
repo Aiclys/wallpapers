@@ -1,5 +1,6 @@
 # My-Wallpaper
 Some wallpapers i found on github, reddit and discord.
+Sorry for the mess, I'm to lazy to sort them
 
 To download simply do:
 ```
